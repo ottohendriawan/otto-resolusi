@@ -2,3 +2,4 @@ Resolusi ke depannya:
 1. Belajar java
 2. Belajar python
 3. Belajar database
+4. Membuat aplikasi 
