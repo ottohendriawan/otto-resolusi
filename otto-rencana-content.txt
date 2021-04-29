@@ -7,6 +7,7 @@ RENCANA KONTEN OTTO
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+  ^React
 - Interview
 - Vlogs
 - Python
