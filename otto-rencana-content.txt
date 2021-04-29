@@ -1,0 +1,5 @@
+RENCANA KONTEN OTTO
+
+- Java
+- Python
+- MySQL
