@@ -1,5 +1,6 @@
 Resolusi ke depannya:
 1. Belajar java
 2. Belajar python
-3. Belajar database
-4. Membuat aplikasi 
+3. Membuat aplikasi 
+4. Belajar edit video
+5. Belajar membuat vlog
